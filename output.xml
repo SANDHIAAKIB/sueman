@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.12.2 on win32)" generated="2024-04-27T20:57:42.377598" rpa="false" schemaversion="5">
+<suite id="s1" name="Salimbhai" source="c:\Users\Lenovo\Downloads\sueman\salimbhai.robot">
+<test id="s1-t1" name="salimbhai" line="6">
+<kw name="Log" owner="BuiltIn">
+<msg time="2024-04-27T20:57:42.770414" level="INFO">salimbhai amirmiya sindhi</msg>
+<arg>salimbhai amirmiya sindhi</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2024-04-27T20:57:42.770414" elapsed="0.006155"/>
+</kw>
+<status status="PASS" start="2024-04-27T20:57:42.761117" elapsed="0.015452"/>
+</test>
+<status status="PASS" start="2024-04-27T20:57:42.385696" elapsed="0.390873"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Salimbhai">Salimbhai</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
